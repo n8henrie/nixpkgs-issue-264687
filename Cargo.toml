@@ -1,0 +1,10 @@
+[package]
+description = "Nix (package manager) indexing primitives"
+authors = ["Nathan Henrie <nate@n8henrie.com>"]
+edition = "2021"
+name = "nixpkgs-issue-264687-example"
+version = "0.0.0"
+license = "MIT"
+
+[dependencies]
+hyper-proxy = "0.9.1"
